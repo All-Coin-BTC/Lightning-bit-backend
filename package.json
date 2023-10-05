@@ -1,0 +1,15 @@
+{
+    "name": "allcoin-defi",
+    "version": "1.0.0",
+    "description": "Backend for allcoin-defi",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "allcoin",
+    "license": "MIT"
+  }
+  
